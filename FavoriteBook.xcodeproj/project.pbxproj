@@ -11,6 +11,7 @@
 		774198392AF4637C00967A84 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774198382AF4637C00967A84 /* ContentView.swift */; };
 		7741983B2AF4637D00967A84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7741983A2AF4637D00967A84 /* Assets.xcassets */; };
 		7741983E2AF4637D00967A84 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7741983D2AF4637D00967A84 /* Preview Assets.xcassets */; };
+		774198452AF463D200967A84 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774198442AF463D200967A84 /* FavoriteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		774198382AF4637C00967A84 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7741983A2AF4637D00967A84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7741983D2AF4637D00967A84 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		774198442AF463D200967A84 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				774198362AF4637C00967A84 /* FavoriteBookApp.swift */,
 				774198382AF4637C00967A84 /* ContentView.swift */,
+				774198442AF463D200967A84 /* FavoriteModel.swift */,
 				7741983A2AF4637D00967A84 /* Assets.xcassets */,
 				7741983C2AF4637D00967A84 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				774198452AF463D200967A84 /* FavoriteModel.swift in Sources */,
 				774198392AF4637C00967A84 /* ContentView.swift in Sources */,
 				774198372AF4637C00967A84 /* FavoriteBookApp.swift in Sources */,
 			);
